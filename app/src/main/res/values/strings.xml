@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Food Cart</string>
+    <string name="loading">Loading</string>
+    <string name="failure_error">Something went wrong!Try again later</string>
+    <string name="curated_for_mayank">Curated for Mayank</string>
+    <string name="see_more">See more</string>
+    <string name="food_one">Food one image</string>
+    <string name="food_two">Food two image</string>
+    <string name="drop_down_arrow">Drop down arrow</string>
+    <string name="slider_image">Slider Image</string>
+    <string name="dot_image">Dot image</string>
+    <string name="dropdown_image">DropDown Image</string>
+    <string name="about">About</string>
+    <string name="where_to_eat">Where to eat</string>
+    <string name="photo">photo</string>
+    <string name="best">BEST</string>
+    <string name="foodphoto">foodPhoto</string>
+</resources>
